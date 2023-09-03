@@ -37,6 +37,8 @@
 
 ![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled4.png "")  
 
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled5.png "")  
+
 2. t
 
 

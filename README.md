@@ -51,6 +51,9 @@
 
 ![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled9.png "")  
 
+4-5. 
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled10.png "")  
 
 
 ### Задание 3

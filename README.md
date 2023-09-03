@@ -39,7 +39,17 @@
 
 ![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled5.png "")  
 
-2. t
+2-3. 
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled6.png "")   
+
+Не хочет без итератора обращаться к листу такого типа, просит map или set. Почти переделала на map, потому что так проще, но нашла костыль с итератором (а, может, не костыль? так и должно быть?)  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled7.png "")  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled8.png "")  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled9.png "")  
 
 
 

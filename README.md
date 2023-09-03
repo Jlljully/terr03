@@ -32,6 +32,13 @@
 
 ### Ответ
 
+1.
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled3.png "")   
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled4.png "")  
+
+2. t
+
 
 
 ### Задание 3

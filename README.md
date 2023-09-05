@@ -65,6 +65,10 @@
 
 ### Ответ
 
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled11.png "")  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled12.png "")  
+
 
 ### Задание 4
 

@@ -86,6 +86,13 @@
 
 ### Ответ
 
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled13.png "")  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled14.png "")  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled15.png "")  
+
+![скрин](https://github.com/Jlljully/terr03/blob/main/Untitled16.png "")  
 
 
 ## Дополнительные задания (со звездочкой*)
